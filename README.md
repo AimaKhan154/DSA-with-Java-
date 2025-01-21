@@ -1,1 +1,8 @@
-This repository contains my solutions to various data structures and algorithms problems using Java. The goal is to understand the fundamental concepts of DSA, improve problem-solving skills, and build a solid foundation in computer science.This repository is a collection of common data structures and algorithms implemented in Java. I am using it as a personal learning tool and hope it helps others who are also studying or revising these concepts.
+# 💻 Data Structures and Algorithms in Java  
+
+This repository contains my solutions to various **DSA problems** implemented in **Java**. It serves as a personal learning tool to:  
+- Understand fundamental DSA concepts.  
+- Improve problem-solving skills.  
+- Build a solid foundation in computer science.  
+
+I hope this collection helps others studying or revising these concepts!  
